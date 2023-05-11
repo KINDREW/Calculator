@@ -106,3 +106,6 @@ Button(root,text="=",command= lambda :calculate()).grid(columnspan=6, sticky=N+S
 
  
 root.mainloop()
+
+
+#Developed by Andrew Afful
